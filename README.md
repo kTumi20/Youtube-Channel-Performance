@@ -6,7 +6,7 @@ A dashboard that will analyse the performance of a startup reaction YouTube chan
 ### Creating KPIs
 Which video generated the most views?  
 What is the average watch time per video?  
-What is the impressions click-through rate (CTR)?  
+What is the click-through rate (CTR)?  
 How many subscribers have been gained per upload?  
 
 ### Product-Market Fit Signal Indentifiers
